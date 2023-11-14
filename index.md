@@ -4,3 +4,6 @@
 cd binbasri
 ls -a
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
